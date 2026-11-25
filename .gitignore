@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+.DS_Store
+
+# Captura con nombres de seguidores de terceros: no se publica
+design/brand/instagram-perfil.jpg
