@@ -33,7 +33,7 @@ Tipografías: Bricolage Grotesque (títulos), Figtree (texto) y Shrikhand (palab
 - Instagram @helados.prince y Linktree linktr.ee/heladosprince.
 - Precios: 1/4 kg $8.000 · 1/2 kg $14.000 · 1 kg $23.000.
 - Horarios: lunes y miércoles a domingo; martes cerrado (ver `branches.ts`).
-- Delivery desactivado (`brand.ts` → `features.delivery`): solo retiro en el local.
+- Delivery y retiro en el local activados.
 
 ## Imágenes
 

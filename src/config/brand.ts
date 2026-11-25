@@ -60,7 +60,7 @@ export const BRAND = {
   /** Funciones que se pueden prender o apagar para cada heladería */
   features: {
     /** Muestra la opción "Delivery" en el pedido */
-    delivery: false, // sin delivery confirmado: solo retiro. Cambiá a true si hacen envíos
+    delivery: true, // confirmado por la heladería: hacen envíos a domicilio
     /** Muestra la opción "Retiro en sucursal" en el pedido */
     pickup: true,
     /** Sección con fotos de Instagram */
